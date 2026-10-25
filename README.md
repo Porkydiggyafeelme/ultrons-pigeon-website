@@ -1,1 +1,7 @@
-# Website draft`n`nPublic website for the development-stage Windows mail client. Privacy and Terms pages are marked review drafts and are not finalized or ready for external submission.
+# Development-stage email client website
+
+Public website source for **Ultron's Pigeon (Development Codename)**, a Windows desktop email client in development. The final product name has not been selected.
+
+The site is a static HTML/CSS/JavaScript project published with GitHub Pages from `main` at the repository root. It does not include application source code.
+
+The Privacy Policy and Terms pages are explicitly labeled review drafts. They are not final policies and are not ready for external registration or legal reliance.
