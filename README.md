@@ -1,0 +1,1 @@
+# Website draft`n`nPublic website for the development-stage Windows mail client. Privacy and Terms pages are marked review drafts and are not finalized or ready for external submission.
